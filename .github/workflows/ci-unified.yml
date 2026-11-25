@@ -1,5 +1,0 @@
-name: CI Unified
-on: [push, pull_request]
-jobs:
-  ucqcs:
-    uses: g33ky00/.github/.github/workflows/ucqcs.yml@v4.8
