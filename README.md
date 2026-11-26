@@ -10,15 +10,15 @@ A web app where Jev makes decisions and the app acts on them via /alpha/decision
 
 ```text
 .
-├── .github/workflows/
-└── ...
+├── LICENSE
+└── README.md
 ```
 
 ## Stack
 
 - Web application
 
-## Contributing
+## Contribution
 
 Contributions are welcome. Please open an issue or pull request.
 
