@@ -8,7 +8,7 @@ A web app where Jev makes decisions and the app acts on them via /alpha/decision
 
 ## Structure
 
-```
+```text
 .
 ├── .github/workflows/
 └── ...
